@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppDoAn</string>
+    <string-array name="VanHocVietNam">
+        <item>Dế mèn phiêu lưu ký</item>
+        <item>Chuyện cổ tích dành cho người lớn</item>
+        <item>Đất rừng phương nam</item>
+        <item>Trúng số độc đắc</item>
+        <item>Tắt đèn</item>
+        <item>Tuyển tập truyện ngắn Nguyễn Công Ngoan</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
